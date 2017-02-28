@@ -1,0 +1,108 @@
+a{text-decoration:none}
+a.navigator:hover{
+text-decoration:none;
+  color:purple;
+background-color:red}
+th.mytag {
+  font-family:
+   Arial, Helvetica, Sans-serif;
+  font-size: 40px;}
+th.mytag:hover{background-color: red}
+body {
+background-image:
+url("http://cdn.wallpapersafari.com/98/10/zLyJN8.jpg");
+/*this image borrowed from url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjJhdbii7HSAhWkjlQKHRc1Bc0QjB0IBg&url=http%3A%2F%2Fwallpapersafari.com%2Fcircuit-board-background%2F&psig=AFQjCNEPb0apRfZoX53iKlBdqduJz4xCcQ&ust=1488312899474677")*/
+background-repeat:repeat;
+}
+tr.ctags{
+  background-image:
+  url("https://cdn.shutterstock.com/shutterstock/videos/8673700/thumb/1.jpg?i10c=img.resize(height:160");}
+th.mytag {
+  border-style:solid;
+  border-width:1px;
+  border-color:yellow;
+  height: 40px;
+  width: 900px;
+}
+img#right{
+float: right;
+  width:300px;
+  padding: 10px;
+}
+img#left{
+float: left;
+width:300px;
+padding: 10px;
+background-color: white;}
+table.ctags{
+  float:inherit;
+  width:300px;
+  padding: 10px;
+}
+h1{
+  text-align: center;
+  background-color:black;
+  font-size:60px;
+  color:yellow;
+}
+h2{
+text-align: center;
+background-color:black;
+font-size:60px;
+color:yellow;
+}
+p,ol,li{color:white;
+background-color:black;
+font-size:40px;
+text-align: center;}
+div.triple{
+  width: 100%;
+}
+  div.one{
+  float: left;
+  width: 10%;
+margin-left: auto;}
+  div.two{
+  float:none;
+width: 40%;
+margin-left: 30%;
+}
+  div.three{
+  float: right;
+  width:30%;
+  margin-left: auto;
+}
+div.special{
+  float:none;
+width: 40%;
+margin-left: 20%;
+margin-right: 20%;
+}
+div<.file1{
+  float:right;
+  width:30%;
+  margin-right:10%;
+  margin-left:60%;
+}
+img.intrest {
+  float:left;
+  width:360px;
+  height:460px;
+}
+img.intrest1{
+  float:right;
+width: 260px;
+height: 360px;
+}
+img.git{
+  float:none;
+  margin-left: 30%;
+  margin-right: 30%
+}
+div.file{
+  float:left;
+  width:30%;
+  margin-left: 10%;
+  margin-right:10%;
+}
+span {color:blue}
